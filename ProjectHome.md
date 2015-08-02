@@ -1,0 +1,1 @@
+Java implementation of the HAI Omni-Link II protocol.  This allows developers to speak to a HAI omni or Lumina home automation panel.  Lighting, thermostats, sensors, security, and more can be controlled via this library.
